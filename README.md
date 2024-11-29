@@ -4,9 +4,11 @@ SentiCast is a media streaming platform that incorporates an interactive comment
 
 ### App Preview
 
-![Home page](img1.png)
-![About me page](img2.png)
-![Disease prediction page](img3.png)
+![Home page](img/img1.png)
+![Movies page](img/img2.png)
+![Search by movie page](img/img3.png)
+![Search by people page](img/img4.png)
+![Description page](img/img5.png)
 
 ### Features
 
